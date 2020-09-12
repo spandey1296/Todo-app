@@ -1,4 +1,6 @@
 # Todo-app
+[![HitCount](http://hits.dwyl.com/spandey1296/Todo-app.svg)](http://hits.dwyl.com/spandey1296/Todo-app)
+
 TODO-APPLICATION
 
 Todo django application 
